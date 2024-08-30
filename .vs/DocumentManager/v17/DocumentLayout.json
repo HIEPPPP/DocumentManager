@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24182\\source\\repos\\DocumentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmaddcontextsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmaddcontextsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dao\\deploymentcontextdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dao\\deploymentcontextdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmaddcontextsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmaddcontextsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmadddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmadddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmadddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmadddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmdocumentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmdocumentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmdocumentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmdocumentmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmupdatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmupdatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dao\\formdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dao\\formdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmadddocument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmadddocument.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dao\\documentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dao\\documentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmupdatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmupdatedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dao\\departmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\dto\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\dto\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\helpers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmaddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmaddform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\document\\frmdocumentmst.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\document\\frmdocumentmst.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|c:\\users\\24182\\source\\repos\\documentmanager\\documentmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637BC89B-43A2-4BB4-9499-70D98FB1D5BF}|DocumentManager\\DocumentManager.csproj|solutionrelative:documentmanager\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:21:25.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddDocument.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:05:38.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:01:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddContextSection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddContextSection.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddContextSection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:40:33.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddContextSection.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddContextSection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:55:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeploymentContextDAO.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DeploymentContextDAO.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DAO\\DeploymentContextDAO.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DeploymentContextDAO.cs",
+              "RelativeToolTip": "DocumentManager\\DAO\\DeploymentContextDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:37:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAddDocument.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddDocument.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddDocument.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:40:33.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDocumentMST.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAWwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:56:59.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDocumentMST.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmDocumentMST.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmDocumentMST.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:19:52.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUpdateDocument.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmUpdateDocument.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmUpdateDocument.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:48:09.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDAO.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\FormDAO.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DAO\\FormDAO.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\FormDAO.cs",
+              "RelativeToolTip": "DocumentManager\\DAO\\FormDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvxwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:46:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddDocument.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddDocument.Designer.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddDocument.Designer.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddDocument.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAADgv5kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:52:02.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "DocumentManager\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:56:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDepartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDepartment.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:20:51.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DocumentDAO.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DAO\\DocumentDAO.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DocumentDAO.cs",
+              "RelativeToolTip": "DocumentManager\\DAO\\DocumentDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:50:55.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmUpdateDocument.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmUpdateDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:37:16.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DepartmentDAO.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DAO\\DepartmentDAO.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DAO\\DepartmentDAO.cs",
+              "RelativeToolTip": "DocumentManager\\DAO\\DepartmentDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:56:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DTO\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\DTO\\Document.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\DTO\\Document.cs",
+              "RelativeToolTip": "DocumentManager\\DTO\\Document.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:42:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\Helpers\\Helpers.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\Helpers\\Helpers.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\Helpers\\Helpers.cs",
+              "RelativeToolTip": "DocumentManager\\Helpers\\Helpers.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:12:24.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmAddForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmAddForm.Designer.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmAddForm.Designer.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmAddForm.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:08:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\frmMain.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmMain.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:40:16.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DocumentManager\\GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:33:41.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\frmMain.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmMain.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\frmMain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:00:10.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmDepartment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:03:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDocumentMST.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\Document\\frmDocumentMST.Designer.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\Document\\frmDocumentMST.Designer.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\Document\\frmDocumentMST.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAArwFIBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:32:19.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DocumentManager\\GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\24182\\source\\repos\\DocumentManager\\DocumentManager\\GUI\\frmLogin.cs",
+              "RelativeToolTip": "DocumentManager\\GUI\\frmLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:37:55.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
